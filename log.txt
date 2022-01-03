@@ -1,0 +1,615 @@
+[ STARTED CHECKING -  2022/01/03 17:28:01 ]
+
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 0.0
+ Total Sold - 0.0
+
+Total sold seats: 
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:28:01 ]
+
+[ STARTED CHECKING -  2022/01/03 17:28:11 ]
+
+ Vanzari:
+   Mon Jan 03 17:28:05 EET 2022 2 TestClient4 800.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:07 EET 2022 2 TestClient1 1000.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:09 EET 2022 2 TestClient1 600.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:09 EET 2022 3 TestClient1 150.0LEI pentru 1 bilete
+   Mon Jan 03 17:28:09 EET 2022 2 TestClient1 400.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:10 EET 2022 2 TestClient4 800.0LEI pentru 4 bilete
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 3750.0
+ Total Sold - 3750.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 1
+ For the show: S2 we sold tickets from seats 1 to 18
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 82 locuri ramase la spectacolul S2
+ 99 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:28:11 ]
+
+[ STARTED CHECKING -  2022/01/03 17:28:21 ]
+
+ Vanzari:
+   Mon Jan 03 17:28:11 EET 2022 1 TestClient3 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:11 EET 2022 3 TestClient1 600.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:11 EET 2022 2 TestClient1 600.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:13 EET 2022 3 TestClient3 450.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:13 EET 2022 1 TestClient1 100.0LEI pentru 1 bilete
+   Mon Jan 03 17:28:14 EET 2022 1 TestClient4 400.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:15 EET 2022 2 TestClient1 1000.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:15 EET 2022 1 TestClient2 100.0LEI pentru 1 bilete
+   Mon Jan 03 17:28:15 EET 2022 1 TestClient4 500.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:17 EET 2022 2 TestClient1 400.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:17 EET 2022 1 TestClient1 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:17 EET 2022 2 TestClient3 1000.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:18 EET 2022 3 TestClient2 150.0LEI pentru 1 bilete
+   Mon Jan 03 17:28:19 EET 2022 1 TestClient3 400.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:19 EET 2022 1 TestClient1 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:20 EET 2022 1 TestClient2 200.0LEI pentru 2 bilete
+
+Update-uri: 
+ Pre check  - 3750.0
+ Sold this check - 6800.0
+ Total Sold - 10550.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 9
+ For the show: S1 we sold tickets from seats 1 to 26
+ For the show: S2 we sold tickets from seats 1 to 33
+
+Locuri ramase: 
+ 74 locuri ramase la spectacolul S1
+ 67 locuri ramase la spectacolul S2
+ 91 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:28:21 ]
+
+[ STARTED CHECKING -  2022/01/03 17:28:31 ]
+
+ Vanzari:
+   Mon Jan 03 17:28:21 EET 2022 3 TestClient4 450.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:21 EET 2022 2 TestClient4 200.0LEI pentru 1 bilete
+   Mon Jan 03 17:28:22 EET 2022 2 TestClient3 1000.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:23 EET 2022 2 TestClient4 800.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:23 EET 2022 2 TestClient1 200.0LEI pentru 1 bilete
+   Mon Jan 03 17:28:23 EET 2022 2 TestClient1 800.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:24 EET 2022 2 TestClient1 400.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:25 EET 2022 3 TestClient4 300.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:26 EET 2022 3 TestClient3 450.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:27 EET 2022 3 TestClient1 600.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:27 EET 2022 1 TestClient4 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:28 EET 2022 1 TestClient4 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:29 EET 2022 2 TestClient4 1000.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:30 EET 2022 2 TestClient2 800.0LEI pentru 4 bilete
+
+Update-uri: 
+ Pre check  - 10550.0
+ Sold this check - 7600.0
+ Total Sold - 18150.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 21
+ For the show: S1 we sold tickets from seats 1 to 32
+ For the show: S2 we sold tickets from seats 1 to 59
+
+Locuri ramase: 
+ 68 locuri ramase la spectacolul S1
+ 41 locuri ramase la spectacolul S2
+ 79 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:28:31 ]
+
+[ STARTED CHECKING -  2022/01/03 17:28:41 ]
+
+ Vanzari:
+   Mon Jan 03 17:28:31 EET 2022 2 TestClient3 200.0LEI pentru 1 bilete
+   Mon Jan 03 17:28:31 EET 2022 2 TestClient0 800.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:32 EET 2022 2 TestClient0 800.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:33 EET 2022 1 TestClient2 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:33 EET 2022 3 TestClient2 750.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:33 EET 2022 1 TestClient2 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:35 EET 2022 3 TestClient3 750.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:35 EET 2022 1 TestClient3 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:37 EET 2022 1 TestClient0 400.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:37 EET 2022 3 TestClient4 450.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:38 EET 2022 1 TestClient3 400.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:39 EET 2022 2 TestClient4 400.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:39 EET 2022 1 TestClient3 400.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:39 EET 2022 1 TestClient1 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:40 EET 2022 2 TestClient0 600.0LEI pentru 3 bilete
+
+Update-uri: 
+ Pre check  - 18150.0
+ Sold this check - 7150.0
+ Total Sold - 25300.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 34
+ For the show: S1 we sold tickets from seats 1 to 56
+ For the show: S2 we sold tickets from seats 1 to 73
+
+Locuri ramase: 
+ 44 locuri ramase la spectacolul S1
+ 27 locuri ramase la spectacolul S2
+ 66 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:28:41 ]
+
+[ STARTED CHECKING -  2022/01/03 17:28:51 ]
+
+ Vanzari:
+   Mon Jan 03 17:28:41 EET 2022 3 TestClient4 750.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:41 EET 2022 3 TestClient3 300.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:43 EET 2022 1 TestClient1 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:43 EET 2022 3 TestClient2 300.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:44 EET 2022 2 TestClient4 800.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:45 EET 2022 3 TestClient2 150.0LEI pentru 1 bilete
+   Mon Jan 03 17:28:45 EET 2022 3 TestClient3 450.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:46 EET 2022 2 TestClient3 600.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:47 EET 2022 2 TestClient0 1000.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:47 EET 2022 1 TestClient4 500.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:47 EET 2022 1 TestClient4 500.0LEI pentru 5 bilete
+   Mon Jan 03 17:28:48 EET 2022 2 TestClient2 600.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:49 EET 2022 1 TestClient0 100.0LEI pentru 1 bilete
+   Mon Jan 03 17:28:49 EET 2022 3 TestClient0 300.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:50 EET 2022 1 TestClient3 300.0LEI pentru 3 bilete
+
+Update-uri: 
+ Pre check  - 25300.0
+ Sold this check - 6950.0
+ Total Sold - 32250.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 49
+ For the show: S1 we sold tickets from seats 1 to 73
+ For the show: S2 we sold tickets from seats 1 to 88
+
+Locuri ramase: 
+ 27 locuri ramase la spectacolul S1
+ 12 locuri ramase la spectacolul S2
+ 51 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:28:51 ]
+
+[ STARTED CHECKING -  2022/01/03 17:29:01 ]
+
+ Vanzari:
+   Mon Jan 03 17:28:51 EET 2022 3 TestClient1 150.0LEI pentru 1 bilete
+   Mon Jan 03 17:28:51 EET 2022 3 TestClient4 300.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:51 EET 2022 2 TestClient4 800.0LEI pentru 4 bilete
+   Mon Jan 03 17:28:53 EET 2022 1 TestClient0 200.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:53 EET 2022 3 TestClient1 450.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:55 EET 2022 1 TestClient1 100.0LEI pentru 1 bilete
+   Mon Jan 03 17:28:55 EET 2022 3 TestClient3 450.0LEI pentru 3 bilete
+   Mon Jan 03 17:28:55 EET 2022 1 TestClient3 200.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:57 EET 2022 1 TestClient3 200.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:57 EET 2022 1 TestClient2 200.0LEI pentru 2 bilete
+   Mon Jan 03 17:28:58 EET 2022 1 TestClient3 200.0LEI pentru 2 bilete
+   Mon Jan 03 17:29:00 EET 2022 3 TestClient3 750.0LEI pentru 5 bilete
+   Mon Jan 03 17:29:00 EET 2022 1 TestClient3 100.0LEI pentru 1 bilete
+
+Update-uri: 
+ Pre check  - 32250.0
+ Sold this check - 4100.0
+ Total Sold - 36350.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 63
+ For the show: S1 we sold tickets from seats 1 to 85
+ For the show: S2 we sold tickets from seats 1 to 92
+
+Locuri ramase: 
+ 15 locuri ramase la spectacolul S1
+ 8 locuri ramase la spectacolul S2
+ 37 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:29:01 ]
+
+[ STARTED CHECKING -  2022/01/03 17:29:11 ]
+
+ Vanzari:
+   Mon Jan 03 17:29:01 EET 2022 3 TestClient0 450.0LEI pentru 3 bilete
+   Mon Jan 03 17:29:02 EET 2022 1 TestClient0 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:29:02 EET 2022 3 TestClient1 300.0LEI pentru 2 bilete
+   Mon Jan 03 17:29:03 EET 2022 1 TestClient0 500.0LEI pentru 5 bilete
+   Mon Jan 03 17:29:03 EET 2022 1 TestClient2 100.0LEI pentru 1 bilete
+   Mon Jan 03 17:29:04 EET 2022 3 TestClient4 300.0LEI pentru 2 bilete
+   Mon Jan 03 17:29:05 EET 2022 1 TestClient1 100.0LEI pentru 1 bilete
+   Mon Jan 03 17:29:05 EET 2022 1 TestClient3 500.0LEI pentru 5 bilete
+   Mon Jan 03 17:29:07 EET 2022 2 TestClient2 200.0LEI pentru 1 bilete
+   Mon Jan 03 17:29:07 EET 2022 3 TestClient0 750.0LEI pentru 5 bilete
+   Mon Jan 03 17:29:09 EET 2022 2 TestClient2 200.0LEI pentru 1 bilete
+   Mon Jan 03 17:29:09 EET 2022 2 TestClient1 200.0LEI pentru 1 bilete
+   Mon Jan 03 17:29:10 EET 2022 2 TestClient2 1000.0LEI pentru 5 bilete
+
+Update-uri: 
+ Pre check  - 36350.0
+ Sold this check - 4900.0
+ Total Sold - 41250.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 75
+ For the show: S1 we sold tickets from seats 1 to 100
+ For the show: S2 we sold tickets from seats 1 to 100
+
+Locuri ramase: 
+ 0 locuri ramase la spectacolul S1
+ 0 locuri ramase la spectacolul S2
+ 25 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:29:11 ]
+
+[ STARTED CHECKING -  2022/01/03 17:29:21 ]
+
+ Vanzari:
+   Mon Jan 03 17:29:12 EET 2022 3 TestClient0 450.0LEI pentru 3 bilete
+   Mon Jan 03 17:29:15 EET 2022 3 TestClient1 150.0LEI pentru 1 bilete
+   Mon Jan 03 17:29:16 EET 2022 3 TestClient1 750.0LEI pentru 5 bilete
+   Mon Jan 03 17:29:17 EET 2022 3 TestClient2 450.0LEI pentru 3 bilete
+   Mon Jan 03 17:29:20 EET 2022 3 TestClient0 300.0LEI pentru 2 bilete
+   Mon Jan 03 17:29:20 EET 2022 3 TestClient1 600.0LEI pentru 4 bilete
+
+Update-uri: 
+ Pre check  - 41250.0
+ Sold this check - 2700.0
+ Total Sold - 43950.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 93
+ For the show: S1 we sold tickets from seats 1 to 100
+ For the show: S2 we sold tickets from seats 1 to 100
+
+Locuri ramase: 
+ 0 locuri ramase la spectacolul S1
+ 0 locuri ramase la spectacolul S2
+ 7 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:29:21 ]
+
+[ STARTED CHECKING -  2022/01/03 17:29:31 ]
+
+ Vanzari:
+   Mon Jan 03 17:29:21 EET 2022 3 TestClient3 150.0LEI pentru 1 bilete
+   Mon Jan 03 17:29:22 EET 2022 3 TestClient4 300.0LEI pentru 2 bilete
+   Mon Jan 03 17:29:25 EET 2022 3 TestClient2 150.0LEI pentru 1 bilete
+   Mon Jan 03 17:29:26 EET 2022 3 TestClient4 450.0LEI pentru 3 bilete
+
+Update-uri: 
+ Pre check  - 43950.0
+ Sold this check - 1050.0
+ Total Sold - 45000.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 100
+ For the show: S1 we sold tickets from seats 1 to 100
+ For the show: S2 we sold tickets from seats 1 to 100
+
+Locuri ramase: 
+ 0 locuri ramase la spectacolul S1
+ 0 locuri ramase la spectacolul S2
+ 0 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:29:31 ]
+
+[ STARTED CHECKING -  2022/01/03 17:29:41 ]
+
+
+Update-uri: 
+ Pre check  - 45000.0
+ Sold this check - 0.0
+ Total Sold - 45000.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 100
+ For the show: S1 we sold tickets from seats 1 to 100
+ For the show: S2 we sold tickets from seats 1 to 100
+
+Locuri ramase: 
+ 0 locuri ramase la spectacolul S1
+ 0 locuri ramase la spectacolul S2
+ 0 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:29:41 ]
+
+[ STARTED CHECKING -  2022/01/03 17:29:51 ]
+
+
+Update-uri: 
+ Pre check  - 45000.0
+ Sold this check - 0.0
+ Total Sold - 45000.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 100
+ For the show: S1 we sold tickets from seats 1 to 100
+ For the show: S2 we sold tickets from seats 1 to 100
+
+Locuri ramase: 
+ 0 locuri ramase la spectacolul S1
+ 0 locuri ramase la spectacolul S2
+ 0 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:29:51 ]
+
+[ STARTED CHECKING -  2022/01/03 17:32:00 ]
+
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 0.0
+ Total Sold - 0.0
+
+Total sold seats: 
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:32:00 ]
+
+[ STARTED CHECKING -  2022/01/03 17:32:10 ]
+
+ Vanzari:
+   Mon Jan 03 17:32:01 EET 2022 2 TestClient1 200.0LEI pentru 1 bilete
+   Mon Jan 03 17:32:03 EET 2022 3 TestClient3 150.0LEI pentru 1 bilete
+   Mon Jan 03 17:32:04 EET 2022 1 TestClient4 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:32:05 EET 2022 1 TestClient2 100.0LEI pentru 1 bilete
+   Mon Jan 03 17:32:06 EET 2022 1 TestClient0 400.0LEI pentru 4 bilete
+   Mon Jan 03 17:32:07 EET 2022 1 TestClient1 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:32:08 EET 2022 3 TestClient4 750.0LEI pentru 5 bilete
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 2200.0
+ Total Sold - 2200.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 6
+ For the show: S1 we sold tickets from seats 1 to 11
+ For the show: S2 we sold tickets from seats 1 to 1
+
+Locuri ramase: 
+ 89 locuri ramase la spectacolul S1
+ 99 locuri ramase la spectacolul S2
+ 94 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:32:10 ]
+
+[ STARTED CHECKING -  2022/01/03 17:34:21 ]
+
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 0.0
+ Total Sold - 0.0
+
+Total sold seats: 
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:34:21 ]
+
+[ STARTED CHECKING -  2022/01/03 17:34:31 ]
+
+ Vanzari:
+   Mon Jan 03 17:34:28 EET 2022 3 TestClient1 300.0LEI pentru 2 bilete
+   Mon Jan 03 17:34:30 EET 2022 2 TestClient2 600.0LEI pentru 3 bilete
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 900.0
+ Total Sold - 900.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 2
+ For the show: S2 we sold tickets from seats 1 to 3
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 97 locuri ramase la spectacolul S2
+ 98 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:34:31 ]
+
+[ STARTED CHECKING -  2022/01/03 17:34:55 ]
+
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 0.0
+ Total Sold - 0.0
+
+Total sold seats: 
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:34:55 ]
+
+[ STARTED CHECKING -  2022/01/03 17:35:05 ]
+
+ Vanzari:
+   Mon Jan 03 17:35:00 EET 2022 2 TestClient4 600.0LEI pentru 3 bilete
+   Mon Jan 03 17:35:02 EET 2022 1 TestClient1 100.0LEI pentru 1 bilete
+   Mon Jan 03 17:35:03 EET 2022 2 TestClient1 200.0LEI pentru 1 bilete
+   Mon Jan 03 17:35:04 EET 2022 1 TestClient1 200.0LEI pentru 2 bilete
+   Mon Jan 03 17:35:05 EET 2022 2 TestClient2 600.0LEI pentru 3 bilete
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 1700.0
+ Total Sold - 1700.0
+
+Total sold seats: 
+ For the show: S1 we sold tickets from seats 1 to 3
+ For the show: S2 we sold tickets from seats 1 to 7
+
+Locuri ramase: 
+ 97 locuri ramase la spectacolul S1
+ 93 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:35:05 ]
+
+[ STARTED CHECKING -  2022/01/03 17:44:02 ]
+
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 0.0
+ Total Sold - 0.0
+
+Total sold seats: 
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:44:02 ]
+
+[ STARTED CHECKING -  2022/01/03 17:44:12 ]
+
+ Vanzari:
+   Mon Jan 03 17:44:10 EET 2022 1 TestClient4 200.0LEI pentru 2 bilete
+   Mon Jan 03 17:44:12 EET 2022 1 TestClient4 300.0LEI pentru 3 bilete
+   Mon Jan 03 17:44:12 EET 2022 3 TestClient1 300.0LEI pentru 2 bilete
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 800.0
+ Total Sold - 800.0
+
+Total sold seats: 
+ For the show: S3 we sold tickets from seats 1 to 2
+ For the show: S1 we sold tickets from seats 1 to 5
+
+Locuri ramase: 
+ 95 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 98 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/03 17:44:12 ]
+
+[ STARTED CHECKING -  2022/01/04 01:01:44 ]
+
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 0.0
+ Total Sold - 0.0
+
+Total sold seats: 
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/04 01:01:44 ]
+
+[ STARTED CHECKING -  2022/01/04 01:01:54 ]
+
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 0.0
+ Total Sold - 0.0
+
+Total sold seats: 
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/04 01:01:54 ]
+
+[ STARTED CHECKING -  2022/01/04 01:04:22 ]
+
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 0.0
+ Total Sold - 0.0
+
+Total sold seats: 
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/04 01:04:22 ]
+
+[ STARTED CHECKING -  2022/01/04 01:04:32 ]
+
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 0.0
+ Total Sold - 0.0
+
+Total sold seats: 
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/04 01:04:32 ]
+
+[ STARTED CHECKING -  2022/01/04 01:05:08 ]
+
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 0.0
+ Total Sold - 0.0
+
+Total sold seats: 
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/04 01:05:08 ]
+
+[ STARTED CHECKING -  2022/01/04 01:05:18 ]
+
+
+Update-uri: 
+ Pre check  - 0.0
+ Sold this check - 0.0
+ Total Sold - 0.0
+
+Total sold seats: 
+
+Locuri ramase: 
+ 100 locuri ramase la spectacolul S1
+ 100 locuri ramase la spectacolul S2
+ 100 locuri ramase la spectacolul S3
+
+[ FINISHED CHECKING -  2022/01/04 01:05:18 ]
+
